@@ -41,8 +41,8 @@ Trading Bot/
 
 1. Clone the repository:
 ```
-git clone https://github.com/mewael-alema/finbert-trading-bot.git
-cd finbert-trading-bot
+git clone https://github.com/mewael-alema/trading_bot.git
+cd trading_bot
 ```
 
 2. Install the required packages:
